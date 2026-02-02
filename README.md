@@ -158,5 +158,5 @@ Rating analysis highlights service improvement opportunities
 🖼️ Dashboard Preview
 
 https://github.com/nikki-ptl/Blinkit-Dashboard/blob/main/Dashboard.png
-Alt Text: Blinkit Sales Dashboard – Power BI Retail Analytics
+
 
